@@ -1,1 +1,1 @@
-<img src="images/layer.png">
+<img src="images/layer.jpg">
