@@ -23,7 +23,7 @@
 </ul>
 
 <h5><em><strong>Browser Components</em></strong></h5>
-<img src="images/layer.png" alt="" title="" height="339" width="500"></img>
+<img src="images/layer.png" alt="" title="" height="339" width="500">
 
 <h3><em><strong>The Rendering Engine</em></strong></h3>
 <p><em><strong>Rendering</em></strong>:displaying of the requested contents on the browser screen.It can display HTML and [<em>Extensible Markup Language</em>(XML)],(https://www.google.com "XML")documents,images & other types of data via plug-ins or extension.</p>
